@@ -1,0 +1,1 @@
+el programa solo acepta letras minusculas y el caracter espacioeste es un texto de prueba
